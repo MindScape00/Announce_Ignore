@@ -1,7 +1,7 @@
 ## Interface: 80300
 ## Title: Announce Ignore
 ## Author: MindScape
-## Version: 2.3.0
+## Version: 1.0.0
 ## Notes: Makes it so Characters on your Ignore list are ignored in .ann also.
 ## DefaultState: Enabled
 ## X-Date: September 18, 2022
